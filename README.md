@@ -88,4 +88,4 @@ $ yay -S zscroll-git
 ######Powermenu
 ![Powermenu](./assets/Screenshot03.png "Powermenu")
 ######Rofi
-![Rofi](./assests/Screenshot04.png "Rofi")
+![Rofi](./assets/Screenshot04.png "Rofi")
