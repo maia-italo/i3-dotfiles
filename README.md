@@ -15,6 +15,18 @@ My dotfiles for i3wm
 $ sudo pacman -S autotiling spotify-laucher playerctl picom polybar libsysprof-capture alsa-card-profiles rofi-lbonn-wayland-git
 $ yay -S zscroll-git
 ```
+### Screenshots
+
+######Clean
+![Clean](./assets/Screenshot01.png "Clean")
+######Neofetch
+![Neofetch](./assets/Screenshot02.png "Neofetch")
+######Powermenu
+![Powermenu](./assets/Screenshot03.png "Powermenu")
+######Rofi
+![Rofi](./assets/Screenshot04.png "Rofi")
+
+
 ### Keybinds
 
 | Key | Action|
@@ -78,14 +90,3 @@ $ yay -S zscroll-git
 | <kbd>Super + Shift + 1/2/3/4/5</kbd> | Move the container to numbered workspace
 | <kbd>Super + Control + Right</kbd> | Move container to next workspace |
 | <kbd>Super + Control + Left</kbd> | Move container to previous workspace |
-
-### Screenshots
-
-######Clean
-![Clean](./assets/Screenshot01.png "Clean")
-######Neofetch
-![Neofetch](./assets/Screenshot02.png "Neofetch")
-######Powermenu
-![Powermenu](./assets/Screenshot03.png "Powermenu")
-######Rofi
-![Rofi](./assets/Screenshot04.png "Rofi")
