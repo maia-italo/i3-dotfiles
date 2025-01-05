@@ -17,13 +17,13 @@ $ yay -S zscroll-git
 ```
 ### Screenshots
 
-######Clean
+###### Clean
 ![Clean](./assets/Screenshot01.png "Clean")
-######Neofetch
+###### Neofetch
 ![Neofetch](./assets/Screenshot02.png "Neofetch")
-######Powermenu
+###### Powermenu
 ![Powermenu](./assets/Screenshot03.png "Powermenu")
-######Rofi
+###### Rofi
 ![Rofi](./assets/Screenshot04.png "Rofi")
 
 
